@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Assignmate<br>👯 I’m looking to collaborate on Open-source<br>🤝 I’m looking for help with networking<br>🌱 I’m currently learning React<br>💬 Ask me about stuff<br>
+🔭 I’m currently working on finding jobs :)<br>👯 I’m looking to collaborate on Open-source<br>🤝 I’m looking for help with networking<br>🌱 I’m currently learning React<br>💬 Ask me about stuff<br>
 
 
 ## 🌐 Socials:
